@@ -1,4 +1,4 @@
-# lily58-qmk-config
+# lily58-qmk-firmware
 
 Features:
 * Via support
